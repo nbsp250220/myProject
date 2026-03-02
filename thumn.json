@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bg1",
+    "thumb": "https://cdn.xxx.com/thumb/bg1.jpg",
+    "full": "https://cdn.xxx.com/full/bg1.jpg"
+  },
+  {
+    "id": "bg2",
+    "thumb": "https://cdn.xxx.com/thumb/bg2.jpg",
+    "full": "https://cdn.xxx.com/full/bg2.jpg"
+  }
+]
