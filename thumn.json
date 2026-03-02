@@ -8,5 +8,11 @@
     "id": "bg2",
     "thumb": "https://cdn.xxx.com/thumb/bg2.jpg",
     "full": "https://cdn.xxx.com/full/bg2.jpg"
+  },
+  {
+    "id": "bg3",
+    "thumb": "https://cdn.xxx.com/thumb/test.jpg",
+    "full": "https://cdn.xxx.com/full/test.jpg"
   }
 ]
+
