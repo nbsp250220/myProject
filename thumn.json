@@ -1,18 +1,12 @@
 [
   {
-    "id": "bg1",
-    "thumb": "https://cdn.xxx.com/thumb/bg1.jpg",
-    "full": "https://cdn.xxx.com/full/bg1.jpg"
+    "id": "1002",
+    "thumb": "https://raw.githubusercontent.com/nbsp250220/theme/main/1002-thumb.png",
+    "full": "https://raw.githubusercontent.com/nbsp250220/theme/main/1002.jpg"
   },
-  {
-    "id": "bg2",
-    "thumb": "https://cdn.xxx.com/thumb/bg2.jpg",
-    "full": "https://cdn.xxx.com/full/bg2.jpg"
-  },
-  {
-    "id": "bg3",
-    "thumb": "https://cdn.xxx.com/thumb/test.jpg",
-    "full": "https://cdn.xxx.com/full/test.jpg"
+ {
+    "id": "1001",
+    "thumb": "https://raw.githubusercontent.com/nbsp250220/theme/main/1001-thumb.png",
+    "full": "https://raw.githubusercontent.com/nbsp250220/theme/main/1001.jpg"
   }
 ]
-
