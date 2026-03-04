@@ -7,8 +7,8 @@
         "ctime": "2026/3/3 12:09",
         "fromTo": "无",
         "author": "ggmenu",
-        "thumb": "https://raw.githubusercontent.com/nbsp250220/theme/main/1002-thumb.png",
-        "full": "https://raw.githubusercontent.com/nbsp250220/theme/main/1002.jpg"
+        "thumb": "https://gcore.jsdelivr.net/gh/nbsp250220/theme/1002-thumb.png",
+        "full": "https://gcore.jsdelivr.net/gh/nbsp250220/theme/1002.jpg"
     },
     {
         "id": "1001",
@@ -22,10 +22,8 @@
         "ctime": "2026/3/3 14:09",
         "fromTo": "无",
         "author": "ggmenu",
-        "thumb": "https://raw.githubusercontent.com/nbsp250220/theme/main/1001-thumb.png",
-        "full": "https://raw.githubusercontent.com/nbsp250220/theme/main/1001.jpg"
+        "thumb": "https://gcore.jsdelivr.net/gh/nbsp250220/theme/1001-thumb.png",
+        "full": "https://gcore.jsdelivr.net/gh/nbsp250220/theme/1001.jpg"
     }
 ]
-
-
 
