@@ -116,15 +116,6 @@
 > Q：运行时如显示“Windows已保护你的电脑”的弹窗怎么办？</br>    
 > A：点击“更多信息”选项，再点击“仍要运行”即可。
 
-
-
-## 结尾 {#999}
-注：此文档仅仅只是介绍了菜单的一部分功能，更多功能请下载使用和探索。
-如果你喜欢并经常使用这款软件，欢迎通过捐款或购买激活码的方式以支持。  
-也欢迎在社区<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=HGY3PbgNQ1mi-XRuXphIm_zG1-7ZH81z&jump_from=webapi&authKey=+WNQ1SrWk7VRIXs+AMz9Sn1gobn2OK6uTxGfiO5EPXZndGSXyQkDlzhsI7BmgSrn"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="桌面图标整理交流群" title=""></a>进行问题反馈，感谢认可与支持。  
-
-![code](https://im.gurl.eu.org/file/AgACAgEAAxkDAAEBVExpJnVomkTwLRdNhbLweBcMA8ojNAACMQtrG-Y4MUX5gYJEXa6yrgEAAwIAA3gAAzYE.jpg)
-
 更新日志：（会不定期更新）
 https://www.ggmenu.cn/pages/qlogo.html
 
