@@ -1,54 +1,57 @@
-[
-  {
-    "id": "1002",
-    "title": "夕阳湖面",
-    "description": "",
-    "size": "0.45MB",
-    "ctime": "2026/03/07 11:14:04",
-    "fromTo": "",
-    "author": "關",
-    "thumb": "/theme/blob/main/1002-thumb.png",
-    "full": "/theme/blob/main/1002.jpg",
-    "profilePhoto": "/profilePhoto/blob/main/photo1.jpg",
-    "skipUrl": ""
-  },
-  {
-    "id": "1001",
-    "title": "极光星空梦幻鹿",
-    "description": "",
-    "size": "0.65MB",
-    "ctime": "2026/03/07 11:14:04",
-    "fromTo": "",
-    "author": "關",
-    "thumb": "/theme/blob/main/1001-thumb.jpg",
-    "full": "/theme/blob/main/1001.jpg",
-    "profilePhoto": "/profilePhoto/blob/main/photo1.jpg",
-    "skipUrl": ""
-  },
-  {
-    "id": "1003",
-    "title": "巨星行星_大气层",
-    "description": "",
-    "size": "0.92MB",
-    "ctime": "2026/03/07 11:14:04",
-    "fromTo": "",
-    "author": "从未",
-    "thumb": "/theme/blob/main/1003-thumb.jpg",
-    "full": "/theme/blob/main/1003.jpeg",
-    "profilePhoto": "/profilePhoto/blob/main/photo2.jpg",
-    "skipUrl": ""
-  },
-  {
-    "id": "1004",
-    "title": "乡间小路",
-    "description": "",
-    "size": "3.17MB",
-    "ctime": "2026/03/07 11:14:04",
-    "fromTo": "",
-    "author": "關",
-    "thumb": "/theme/blob/main/1004-thumb.jpg",
-    "full": "/theme/blob/main/1004.png",
-    "profilePhoto": "/profilePhoto/blob/main/photo1.jpg",
-    "skipUrl": ""
-  }
-]
+{
+  "version": 1,
+  "list": [
+    {
+      "id": "1002",
+      "title": "夕阳湖面",
+      "description": "",
+      "size": "0.45MB",
+      "ctime": "2026/03/07 14:39:56",
+      "fromTo": "",
+      "author": "關",
+      "thumb": "/theme/blob/main/1002-thumb.png",
+      "full": "/theme/blob/main/1002.jpg",
+      "profilePhoto": "/profilePhoto/blob/main/photo1.jpg",
+      "skipUrl": ""
+    },
+    {
+      "id": "1001",
+      "title": "极光星空梦幻鹿",
+      "description": "",
+      "size": "0.65MB",
+      "ctime": "2026/03/07 14:39:56",
+      "fromTo": "",
+      "author": "關",
+      "thumb": "/theme/blob/main/1001-thumb.jpg",
+      "full": "/theme/blob/main/1001.jpg",
+      "profilePhoto": "/profilePhoto/blob/main/photo1.jpg",
+      "skipUrl": ""
+    },
+    {
+      "id": "1003",
+      "title": "巨星行星_大气层",
+      "description": "",
+      "size": "0.92MB",
+      "ctime": "2026/03/07 14:39:56",
+      "fromTo": "",
+      "author": "从未",
+      "thumb": "/theme/blob/main/1003-thumb.jpg",
+      "full": "/theme/blob/main/1003.jpeg",
+      "profilePhoto": "/profilePhoto/blob/main/photo2.jpg",
+      "skipUrl": ""
+    },
+    {
+      "id": "1004",
+      "title": "乡间小路",
+      "description": "",
+      "size": "3.17MB",
+      "ctime": "2026/03/07 14:39:56",
+      "fromTo": "",
+      "author": "關",
+      "thumb": "/theme/blob/main/1004-thumb.jpg",
+      "full": "/theme/blob/main/1004.png",
+      "profilePhoto": "/profilePhoto/blob/main/photo1.jpg",
+      "skipUrl": ""
+    }
+  ]
+}
