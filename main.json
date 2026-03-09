@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "isAllowUpdate": true,
   "list": [
     {
@@ -7,67 +7,156 @@
       "title": "夕阳湖面",
       "description": "",
       "size": "0.45MB",
-      "ctime": "2026/03/07 17:20:59",
+      "ctime": "2026/03/09 10:08:03",
       "fromTo": "",
       "author": "關",
       "thumb": "/theme/blob/main/1002-thumb.png",
       "full": "/theme/blob/main/1002.jpg",
-      "profilePhoto": "/profilePhoto/blob/main/photo1.jpg",
-      "skipUrl": "待补充"
+      "profilePhoto": "/profilePhoto/blob/main/photo1.jpg"
     },
     {
       "id": "1001",
       "title": "极光星空梦幻鹿",
       "description": "",
       "size": "0.65MB",
-      "ctime": "2026/03/07 17:20:59",
+      "ctime": "2026/03/09 10:08:03",
       "fromTo": "",
       "author": "關",
       "thumb": "/theme/blob/main/1001-thumb.jpg",
       "full": "/theme/blob/main/1001.jpg",
-      "profilePhoto": "/profilePhoto/blob/main/photo1.jpg",
-      "skipUrl": "待补充"
+      "profilePhoto": "/profilePhoto/blob/main/photo1.jpg"
     },
     {
       "id": "1003",
       "title": "巨型行星大气层",
       "description": "",
       "size": "0.92MB",
-      "ctime": "2026/03/07 17:20:59",
+      "ctime": "2026/03/09 10:08:03",
       "fromTo": "",
       "author": "从未",
       "thumb": "/theme/blob/main/1003-thumb.jpg",
       "full": "/theme/blob/main/1003.jpeg",
-      "profilePhoto": "/profilePhoto/blob/main/photo2.jpg",
-      "skipUrl": "待补充"
+      "profilePhoto": "/profilePhoto/blob/main/photo2.jpg"
     },
     {
       "id": "1004",
       "title": "乡间小路",
       "description": "",
       "size": "3.17MB",
-      "ctime": "2026/03/07 17:20:59",
+      "ctime": "2026/03/09 10:08:03",
       "fromTo": "",
       "author": "∞",
       "thumb": "/theme/blob/main/1004-thumb.jpg",
       "full": "/theme/blob/main/1004.png",
-      "profilePhoto": "/profilePhoto/blob/main/photo3.jpg",
-      "skipUrl": "https://haowallpaper.com/"
+      "profilePhoto": "/profilePhoto/blob/main/photo3.jpg"
     },
     {
       "id": "1005",
       "title": "日落时分的郊野",
       "description": "",
       "size": "3.84MB",
-      "ctime": "2026/03/07 17:20:59",
+      "ctime": "2026/03/09 10:08:03",
       "fromTo": "",
       "author": "Carl",
       "thumb": "/theme/blob/main/1005-thumb.jpg",
       "full": "/theme/blob/main/1005.png",
-      "profilePhoto": "/profilePhoto/blob/main/photo4.jpg",
-      "skipUrl": "https://haowallpaper.com/"
+      "profilePhoto": "/profilePhoto/blob/main/photo4.jpg"
+    },
+    {
+      "id": "1006",
+      "title": "晨曦中的静谧:山野与鹿",
+      "description": "远方的呼唤",
+      "size": "0.99MB",
+      "ctime": "2026/03/09 14:18:54",
+      "fromTo": "https://haowallpaper.com/userProfile/1727265044830424577",
+      "author": "Carl",
+      "thumb": "/theme/blob/main/1006thumbnail.jpg",
+      "full": "/theme/blob/main/1006wallpaper.png",
+      "profilePhoto": "/profilePhoto/blob/main/photo4.jpg"
+    },
+    {
+      "id": "1007",
+      "title": "极黑绿焰：暗黑美学",
+      "description": "",
+      "size": "1.00MB",
+      "ctime": "2026/03/09 14:21:39",
+      "fromTo": "https://haowallpaper.com/userProfile/1828996868783312897",
+      "author": "好久不见",
+      "thumb": "/theme/blob/main/1007thumbnail.jpg",
+      "full": "/theme/blob/main/1007wallpaper.png",
+      "profilePhoto": "/profilePhoto/blob/main/photo5.jpg"
+    },
+    {
+      "id": "1008",
+      "title": "绿色星系",
+      "description": "",
+      "size": "3.61MB",
+      "ctime": "2026/03/09 14:27:05",
+      "fromTo": "https://haowallpaper.com/userProfile/1833732986934157313",
+      "author": "Liam.",
+      "thumb": "/theme/blob/main/1008thumbnail.jpg",
+      "full": "/theme/blob/main/1008wallpaper.png",
+      "profilePhoto": "/profilePhoto/blob/main/photo6.jpg"
+    },
+    {
+      "id": "1009",
+      "title": "晚潮与鸥",
+      "description": "",
+      "size": "1.24MB",
+      "ctime": "2026/03/09 14:31:07",
+      "fromTo": "https://haowallpaper.com/userProfile/1830489346451542017",
+      "author": "林下月疏o",
+      "thumb": "/theme/blob/main/1010thumbnail.jpg",
+      "full": "/theme/blob/main/1010wallpaper.png",
+      "profilePhoto": "/profilePhoto/blob/main/photo7.jpg"
+    },
+    {
+      "id": "1011",
+      "title": "雨雾车站与远山",
+      "description": "",
+      "size": "0.74MB",
+      "ctime": "2026/03/09 14:37:11",
+      "fromTo": "https://haowallpaper.com/userProfile/1804852543201759233",
+      "author": "哈哈哈哈",
+      "thumb": "/theme/blob/main/1011wallpaper-thumb.jpg",
+      "full": "/theme/blob/main/1011wallpaper.png",
+      "profilePhoto": "/profilePhoto/blob/main/photo8.jpg"
+    },
+    {
+      "id": "1012",
+      "title": "仰望：林间的金光",
+      "description": "",
+      "size": "12.44MB",
+      "ctime": "2026/03/09 14:40:50",
+      "fromTo": "https://haowallpaper.com/userProfile/1900939716010864642",
+      "author": "欢乐马儿",
+      "thumb": "/theme/blob/main/1012wallpaper-thumb.jpg",
+      "full": "/theme/blob/main/1012wallpaper.png",
+      "profilePhoto": "/profilePhoto/blob/main/photo9.jpg"
+    },
+    {
+      "id": "1013",
+      "title": "晴空森林",
+      "description": "",
+      "size": "4.63MB",
+      "ctime": "2026/03/09 14:46:49",
+      "fromTo": "https://haowallpaper.com/userProfile/1912082641667194881",
+      "author": "∞",
+      "thumb": "/theme/blob/main/1013wallpaper-thumb.jpg",
+      "full": "/theme/blob/main/1013wallpaper.png",
+      "profilePhoto": "/profilePhoto/blob/main/photo3.jpg"
+    },
+    {
+      "id": "1014",
+      "title": "绿荫小憩",
+      "description": "",
+      "size": "2.66MB",
+      "ctime": "2026/03/09 14:50:37",
+      "fromTo": "https://haowallpaper.com/userProfile/1968503893340082178",
+      "author": "某某的",
+      "thumb": "/theme/blob/main/1014wallpaperthumb.jpg",
+      "full": "/theme/blob/main/1014wallpaper.png",
+      "profilePhoto": "/profilePhoto/blob/main/photo10.jpg"
     }
   ]
 }
-
-
