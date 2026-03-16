@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "isAllowUpdate": true,
   "list": [
     {
@@ -366,7 +366,7 @@
       "profilePhoto": "/photo3.jpg",
       "style": {
         "leftOpacity": 64,
-        "rightOpacity": 55,
+        "rightOpacity": 110,
         "bgOpacity": 1.0,
         "scrollColor": "#9BCAD7DE",
         "menu_btn_left_color": "#2196F3",
