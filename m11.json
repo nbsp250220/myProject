@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 16,
   "isAllowUpdate": true,
   "list": [
     {
@@ -787,15 +787,15 @@
       "clip": 0
     },
     {
-      "id": "1029",
+      "id": "1030",
       "title": "亚瑟王",
       "description": "",
       "size": "1.21MB",
       "ctime": "2026/03/18 14:48:39",
       "fromTo": "qq群626608967",
       "author": "从未",
-      "thumb": "/1029巫妖王thumb.jpg",
-      "full": "/1029巫妖王.jpg",
+      "thumb": "/1030thumbnail.jpg",
+      "full": "/1030wallpaper.jpg",
       "profilePhoto": "/photo2.jpg",
       "style": {
         "leftOpacity": 64,
