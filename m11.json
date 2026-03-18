@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "isAllowUpdate": true,
   "list": [
     {
@@ -532,7 +532,7 @@
       "ApplyToWhiteBackground": false,
       "color1": "#1D1B28",
       "color2": "#1D1B28",
-      "clip": 0
+      "clip": 1
     },
     {
       "id": "1020",
@@ -616,7 +616,7 @@
       "ApplyToWhiteBackground": false,
       "color1": "#1D1B28",
       "color2": "#1D1B28",
-      "clip": 0
+      "clip": 1
     },
     {
       "id": "1023",
@@ -728,7 +728,7 @@
       "ApplyToWhiteBackground": false,
       "color1": "#1D1B28",
       "color2": "#1D1B28",
-      "clip": 0
+      "clip": 1
     },
     {
       "id": "1027",
@@ -812,7 +812,7 @@
       "ApplyToWhiteBackground": false,
       "color1": "#1D1B28",
       "color2": "#1D1B28",
-      "clip": 0
+      "clip": 1
     }
   ]
 }
