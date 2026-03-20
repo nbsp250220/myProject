@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "isAllowUpdate": true,
   "list": [
     {
@@ -805,6 +805,34 @@
         "menu_btn_left_color": "#2196F3",
         "menu_btn_main_color": "#9C1B73CC",
         "page_btn_main_color": "#A6096D",
+        "menuSelectType": 0,
+        "blur": 0
+      },
+      "IsColorOptionEnabled": false,
+      "ApplyToWhiteBackground": false,
+      "color1": "#1D1B28",
+      "color2": "#1D1B28",
+      "clip": 1
+    },
+    {
+      "id": "1031",
+      "title": "含羞草",
+      "description": "",
+      "size": "12MB",
+      "ctime": "2026/03/20 14:17:34",
+      "fromTo": "https://haowallpaper.com/homeViewLook/17699872284528000",
+      "author": "XyZ678",
+      "thumb": "/1031thumbnail.jpg",
+      "full": "/1031wallpaper.png",
+      "profilePhoto": "/photo18.jpg",
+      "style": {
+        "leftOpacity": 64,
+        "rightOpacity": 55,
+        "bgOpacity": 1.0,
+        "scrollColor": "#9BCAD7DE",
+        "menu_btn_left_color": "#1BD9C7",
+        "menu_btn_main_color": "#9C1B73CC",
+        "page_btn_main_color": "#1BD9C7",
         "menuSelectType": 0,
         "blur": 0
       },
