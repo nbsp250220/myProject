@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "isAllowUpdate": true,
   "list": [
     {
@@ -852,7 +852,7 @@
       "author": "xinmi",
       "thumb": "/1032thumbnail.jpg",
       "full": "/1032.jpg",
-      "profilePhoto": "/photo19.jpg",
+      "profilePhoto": "/photo0.jpg",
       "style": {
         "leftOpacity": 32,
         "rightOpacity": 55,
