@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 20,
   "isAllowUpdate": true,
   "list": [
     {
@@ -833,6 +833,34 @@
         "menu_btn_left_color": "#1BD9C7",
         "menu_btn_main_color": "#1BD9C7",
         "page_btn_main_color": "#1BD9C7",
+        "menuSelectType": 0,
+        "blur": 0
+      },
+      "IsColorOptionEnabled": false,
+      "ApplyToWhiteBackground": false,
+      "color1": "#1D1B28",
+      "color2": "#1D1B28",
+      "clip": 1
+    },
+    {
+      "id": "1032",
+      "title": "黑色科技",
+      "description": "",
+      "size": "0.60MB",
+      "ctime": "2026/04/11 20:50:33",
+      "fromTo": "未知",
+      "author": "xinmi",
+      "thumb": "/1032thumbnail.jpg",
+      "full": "/1032.jpg",
+      "profilePhoto": "/photo19.jpg",
+      "style": {
+        "leftOpacity": 32,
+        "rightOpacity": 55,
+        "bgOpacity": 1.0,
+        "scrollColor": "#446583",
+        "menu_btn_left_color": "#2196F3",
+        "menu_btn_main_color": "#446583",
+        "page_btn_main_color": "#A6096D",
         "menuSelectType": 0,
         "blur": 0
       },
