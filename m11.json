@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "isAllowUpdate": true,
   "list": [
     {
@@ -1074,7 +1074,7 @@
       "ctime": "2026/04/22 23:08:40",
       "fromTo": "",
       "author": "小蝴蝶",
-      "thumb": "/1040-thumnb.jpg",
+      "thumb": "/1040-thumb.jpg",
       "full": "/1040.jpg",
       "profilePhoto": "/photo0.jpg",
       "style": {
