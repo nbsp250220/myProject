@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "isAllowUpdate": true,
   "list": [
     {
@@ -1785,6 +1785,62 @@
         "menu_btn_left_color": "#03A9F4",
         "menu_btn_main_color": "#03A9F4",
         "page_btn_main_color": "#A6096D",
+        "menuSelectType": 0,
+        "blur": 0
+      },
+      "IsColorOptionEnabled": false,
+      "ApplyToWhiteBackground": false,
+      "color1": "#1D1B28",
+      "color2": "#1D1B28",
+      "clip": 0
+    },
+    {
+      "id": "1066",
+      "title": "鸣潮",
+      "description": "",
+      "size": "0.57MB",
+      "ctime": "2026/06/08 17:00:14",
+      "fromTo": "",
+      "author": "小小",
+      "thumb": "/1066-thumb.jpg",
+      "full": "/1066.jpg",
+      "profilePhoto": "/photo0.jpg",
+      "style": {
+        "leftOpacity": 176,
+        "rightOpacity": 164,
+        "bgOpacity": 1.0,
+        "scrollColor": "#9BCAD7DE",
+        "menu_btn_left_color": "#9C268EB6",
+        "menu_btn_main_color": "#9C268EB6",
+        "page_btn_main_color": "#9C268EB6",
+        "menuSelectType": 0,
+        "blur": 0
+      },
+      "IsColorOptionEnabled": false,
+      "ApplyToWhiteBackground": false,
+      "color1": "#1D1B28",
+      "color2": "#1D1B28",
+      "clip": 0
+    },
+    {
+      "id": "1067",
+      "title": "明日香",
+      "description": "",
+      "size": "2.12MB",
+      "ctime": "2026/06/08 17:02:08",
+      "fromTo": "",
+      "author": "Hanxi",
+      "thumb": "/1067-thumb.jpg",
+      "full": "/1067.jpg",
+      "profilePhoto": "/photo0.jpg",
+      "style": {
+        "leftOpacity": 136,
+        "rightOpacity": 146,
+        "bgOpacity": 1.0,
+        "scrollColor": "#9C313435",
+        "menu_btn_left_color": "#9C313435",
+        "menu_btn_main_color": "#9C313435",
+        "page_btn_main_color": "#9C313435",
         "menuSelectType": 0,
         "blur": 0
       },
