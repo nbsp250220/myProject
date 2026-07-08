@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "isAllowUpdate": true,
   "list": [
     {
@@ -1841,6 +1841,62 @@
         "menu_btn_left_color": "#9C313435",
         "menu_btn_main_color": "#9C313435",
         "page_btn_main_color": "#9C313435",
+        "menuSelectType": 0,
+        "blur": 0
+      },
+      "IsColorOptionEnabled": false,
+      "ApplyToWhiteBackground": false,
+      "color1": "#1D1B28",
+      "color2": "#1D1B28",
+      "clip": 0
+    },
+    {
+      "id": "1068",
+      "title": "洛上青川",
+      "description": "",
+      "size": "0.18MB",
+      "ctime": "2026/07/08 11:47:30",
+      "fromTo": "",
+      "author": "洛上青川",
+      "thumb": "/1068.jpg",
+      "full": "/1068-thumb.jpg",
+      "profilePhoto": "/photo0.jpg",
+      "style": {
+        "leftOpacity": 96,
+        "rightOpacity": 54,
+        "bgOpacity": 1.0,
+        "scrollColor": "#49484C",
+        "menu_btn_left_color": "#49484C",
+        "menu_btn_main_color": "#49484C",
+        "page_btn_main_color": "#49484C",
+        "menuSelectType": 0,
+        "blur": 0
+      },
+      "IsColorOptionEnabled": false,
+      "ApplyToWhiteBackground": false,
+      "color1": "#1D1B28",
+      "color2": "#1D1B28",
+      "clip": 0
+    },
+    {
+      "id": "1069",
+      "title": "猫猫",
+      "description": "",
+      "size": "1.45MB",
+      "ctime": "2026/07/08 11:49:22",
+      "fromTo": "",
+      "author": "白灵",
+      "thumb": "/1069.jpg",
+      "full": "/1069-thumb.jpg",
+      "profilePhoto": "/photo0.jpg",
+      "style": {
+        "leftOpacity": 57,
+        "rightOpacity": 54,
+        "bgOpacity": 1.0,
+        "scrollColor": "#263959",
+        "menu_btn_left_color": "#263959",
+        "menu_btn_main_color": "#263959",
+        "page_btn_main_color": "#263959",
         "menuSelectType": 0,
         "blur": 0
       },
