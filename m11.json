@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "isAllowUpdate": true,
   "list": [
     {
@@ -1858,8 +1858,8 @@
       "ctime": "2026/07/08 11:47:30",
       "fromTo": "",
       "author": "洛上青川",
-      "thumb": "/1068.jpg",
-      "full": "/1068-thumb.jpg",
+      "thumb": "/1068-thumb.jpg",
+      "full": "/1068.jpg",
       "profilePhoto": "/photo0.jpg",
       "style": {
         "leftOpacity": 96,
@@ -1879,34 +1879,6 @@
       "clip": 0
     },
     {
-      "id": "1069",
-      "title": "猫猫",
-      "description": "",
-      "size": "1.45MB",
-      "ctime": "2026/07/08 11:49:22",
-      "fromTo": "",
-      "author": "白灵",
-      "thumb": "/1069.jpg",
-      "full": "/1069-thumb.jpg",
-      "profilePhoto": "/photo0.jpg",
-      "style": {
-        "leftOpacity": 57,
-        "rightOpacity": 54,
-        "bgOpacity": 1.0,
-        "scrollColor": "#263959",
-        "menu_btn_left_color": "#263959",
-        "menu_btn_main_color": "#263959",
-        "page_btn_main_color": "#263959",
-        "menuSelectType": 0,
-        "blur": 0
-      },
-      "IsColorOptionEnabled": false,
-      "ApplyToWhiteBackground": false,
-      "color1": "#1D1B28",
-      "color2": "#1D1B28",
-      "clip": 0
-    },
-    {
       "id": "1070",
       "title": "win11经典粉蓝",
       "description": "来自windows 11",
@@ -1914,8 +1886,8 @@
       "ctime": "2026/07/08 17:40:02",
       "fromTo": "",
       "author": "關",
-      "thumb": "/1070.jpg",
-      "full": "/1070-thumb.jpg",
+      "thumb": "/1070-thumb.jpg",
+      "full": "/1070.jpg",
       "profilePhoto": "/photo1.jpg",
       "style": {
         "leftOpacity": 0,
@@ -1942,8 +1914,8 @@
       "ctime": "2026/07/08 17:47:08",
       "fromTo": "",
       "author": "關",
-      "thumb": "/1071.jpg",
-      "full": "/1071-thumb.jpg",
+      "thumb": "/1071-thumb.jpg",
+      "full": "/1071.jpg",
       "profilePhoto": "/photo1.jpg",
       "style": {
         "leftOpacity": 0,
